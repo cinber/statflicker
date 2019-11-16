@@ -1,0 +1,104 @@
+team_id,manager_id,manager_name,team,season,week,player_name,player_id,team,position,set_pos,points
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Brandon Ingram,1459,Mein Gott Walter,PG/F,ANY,76.3
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Dario Saric,1139,Mein Gott Walter,F,BN,35.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Derrick Favors,632,Mein Gott Walter,PF/C,PF/C,27
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Dewayne Dedmon,1096,Mein Gott Walter,C,BN,18.8
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Evan Fournier,907,Mein Gott Walter,SG/SF,BN,43.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Ja Morant,1883,Mein Gott Walter,PG,ANY,45.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Jamal Murray,1445,Mein Gott Walter,G,G,53.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Jonathan Isaac,1562,Mein Gott Walter,F,SG/SF,28
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Kevin Knox,1683,Mein Gott Walter,F,PF,31.7
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Kyrie Irving,754,Mein Gott Walter,PG,PG,92.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Luka Doncic,1701,Mein Gott Walter,G/SF,SF,88.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Thomas Bryant,1588,Mein Gott Walter,PF/C,C,52
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Zach LaVine,1148,Mein Gott Walter,G,SG,55.3
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Brandon Ingram,1459,Mein Gott Walter,PG/F,ANY,53.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Cody Zeller,1055,Mein Gott Walter,C,BN,43.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Dario Saric,1139,Mein Gott Walter,F,BN,37.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Derrick Favors,632,Mein Gott Walter,PF/C,PF/C,0
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Evan Fournier,907,Mein Gott Walter,SG/SF,ANY,36.4
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Ja Morant,1883,Mein Gott Walter,PG,BN,46.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Jamal Murray,1445,Mein Gott Walter,G,G,41.1
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Jonathan Isaac,1562,Mein Gott Walter,F,SG/SF,47.4
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Kevin Knox,1683,Mein Gott Walter,F,PF,26.8
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Kyrie Irving,754,Mein Gott Walter,PG,PG,73
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Luka Doncic,1701,Mein Gott Walter,G/SF,SF,87.8
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Thomas Bryant,1588,Mein Gott Walter,PF/C,C,47.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Zach LaVine,1148,Mein Gott Walter,G,SG,46
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Brandon Ingram,1459,Mein Gott Walter,PG/F,PF,68.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Cody Zeller,1055,Mein Gott Walter,C,PF/C,31.1
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Dario Saric,1139,Mein Gott Walter,F,BN,26.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Evan Fournier,907,Mein Gott Walter,SG/SF,ANY,39.1
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Ja Morant,1883,Mein Gott Walter,PG,ANY,40.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Jamal Murray,1445,Mein Gott Walter,G,G,53
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Jonathan Isaac,1562,Mein Gott Walter,F,SG/SF,55.9
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Kyrie Irving,754,Mein Gott Walter,PG,PG,70.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Luka Doncic,1701,Mein Gott Walter,G/SF,SF,85.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,P.J. Tucker,953,Mein Gott Walter,F/C,BN,38.3
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Thomas Bryant,1588,Mein Gott Walter,PF/C,C,52.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Zach LaVine,1148,Mein Gott Walter,G,SG,47.8
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Brandon Ingram,1459,Mein Gott Walter,PG/F,PF,0
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Cody Zeller,1055,Mein Gott Walter,C,PF/C,47.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Dario Saric,1139,Mein Gott Walter,F,BN,52
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Dillon Brooks,1575,Mein Gott Walter,SG/SF,BN,48.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Evan Fournier,907,Mein Gott Walter,SG/SF,ANY,30.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Ja Morant,1883,Mein Gott Walter,PG,ANY,44.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Jamal Murray,1445,Mein Gott Walter,G,G,53.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Jonathan Isaac,1562,Mein Gott Walter,F,SG/SF,32.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Kyrie Irving,754,Mein Gott Walter,PG,PG,55.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Luka Doncic,1701,Mein Gott Walter,G/SF,SF,84
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,P.J. Tucker,953,Mein Gott Walter,F/C,BN,26.8
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Thomas Bryant,1588,Mein Gott Walter,PF/C,C,39.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Zach LaVine,1148,Mein Gott Walter,G,SG,55.5
+129857,1123302,Cina,SCC,20,1,Bojan Bogdanovic,784,SCC,SG/F,SG/SF,47.5
+129857,1123302,Cina,SCC,20,1,Caris LeVert,1416,SCC,G/SF,G,45.5
+129857,1123302,Cina,SCC,20,1,Damian Lillard,932,SCC,PG,PG,73.5
+129857,1123302,Cina,SCC,20,1,Enes Kanter,756,SCC,C,ANY,31
+129857,1123302,Cina,SCC,20,1,Goran Dragic,132,SCC,PG,BN,48.5
+129857,1123302,Cina,SCC,20,1,Jarrett Allen,1538,SCC,PF/C,PF/C,39.2
+129857,1123302,Cina,SCC,20,1,Jayson Tatum,1532,SCC,F,SF,62.8
+129857,1123302,Cina,SCC,20,1,Jimmy Butler,783,SCC,SG/SF,SG,0
+129857,1123302,Cina,SCC,20,1,Kristaps Porzingis,1303,SCC,PF/C,C,66.3
+129857,1123302,Cina,SCC,20,1,Marcus Morris,767,SCC,F,ANY,38.5
+129857,1123302,Cina,SCC,20,1,Reggie Jackson,777,SCC,G,BN,19.2
+129857,1123302,Cina,SCC,20,1,Rui Hachimura,1875,SCC,PF,PF,43.3
+129857,1123302,Cina,SCC,20,1,Willie Cauley-Stein,1254,SCC,C,BN,0
+129857,1123302,Cina,SCC,20,2,Bojan Bogdanovic,784,SCC,SG/F,G,48
+129857,1123302,Cina,SCC,20,2,Bryn Forbes,1507,SCC,G,ANY,30.9
+129857,1123302,Cina,SCC,20,2,Caris LeVert,1416,SCC,G/SF,SG/SF,38
+129857,1123302,Cina,SCC,20,2,Damian Lillard,932,SCC,PG,PG,85.8
+129857,1123302,Cina,SCC,20,2,Enes Kanter,756,SCC,C,BN,0
+129857,1123302,Cina,SCC,20,2,Goran Dragic,132,SCC,PG,ANY,34
+129857,1123302,Cina,SCC,20,2,Jarrett Allen,1538,SCC,PF/C,PF/C,28.2
+129857,1123302,Cina,SCC,20,2,Jayson Tatum,1532,SCC,F,SF,58.5
+129857,1123302,Cina,SCC,20,2,Jimmy Butler,783,SCC,SG/SF,SG,60.8
+129857,1123302,Cina,SCC,20,2,Kristaps Porzingis,1303,SCC,PF/C,C,50.7
+129857,1123302,Cina,SCC,20,2,Marcus Morris,767,SCC,F,PF,51.2
+129857,1123302,Cina,SCC,20,2,Rui Hachimura,1875,SCC,PF,BN,27.5
+129857,1123302,Cina,SCC,20,2,Willie Cauley-Stein,1254,SCC,C,BN,29.2
+129857,1123302,Cina,SCC,20,3,Bojan Bogdanovic,784,SCC,SG/F,G,59.8
+129857,1123302,Cina,SCC,20,3,Bryn Forbes,1507,SCC,G,BN,35
+129857,1123302,Cina,SCC,20,3,Caris LeVert,1416,SCC,G/SF,SG/SF,37
+129857,1123302,Cina,SCC,20,3,Damian Lillard,932,SCC,PG,PG,86.8
+129857,1123302,Cina,SCC,20,3,Davis Bertans,1510,SCC,F,BN,26.3
+129857,1123302,Cina,SCC,20,3,DeAndre Jordan,262,SCC,C,ANY,40.5
+129857,1123302,Cina,SCC,20,3,Enes Kanter,756,SCC,C,BN,0
+129857,1123302,Cina,SCC,20,3,Goran Dragic,132,SCC,PG,ANY,50.7
+129857,1123302,Cina,SCC,20,3,Jayson Tatum,1532,SCC,F,SF,56.2
+129857,1123302,Cina,SCC,20,3,Jimmy Butler,783,SCC,SG/SF,SG,56.5
+129857,1123302,Cina,SCC,20,3,Kristaps Porzingis,1303,SCC,PF/C,C,52
+129857,1123302,Cina,SCC,20,3,Rui Hachimura,1875,SCC,PF,PF,34.3
+129857,1123302,Cina,SCC,20,3,Willie Cauley-Stein,1254,SCC,C,PF/C,25.5
+129857,1123302,Cina,SCC,20,4,Bojan Bogdanovic,784,SCC,SG/F,PF,26.8
+129857,1123302,Cina,SCC,20,4,Brandon Clarke,1892,SCC,PF/C,PF/C,36.5
+129857,1123302,Cina,SCC,20,4,Caris LeVert,1416,SCC,G/SF,BN,0
+129857,1123302,Cina,SCC,20,4,Damian Lillard,932,SCC,PG,PG,51.2
+129857,1123302,Cina,SCC,20,4,Danuel House,1478,SCC,F,ANY,6.5
+129857,1123302,Cina,SCC,20,4,Enes Kanter,756,SCC,C,ANY,25
+129857,1123302,Cina,SCC,20,4,Eric Paschall,1877,SCC,F,SG/SF,25.2
+129857,1123302,Cina,SCC,20,4,Goran Dragic,132,SCC,PG,G,48.5
+129857,1123302,Cina,SCC,20,4,Jayson Tatum,1532,SCC,F,SF,35
+129857,1123302,Cina,SCC,20,4,Jimmy Butler,783,SCC,SG/SF,SG,69.5
+129857,1123302,Cina,SCC,20,4,Kristaps Porzingis,1303,SCC,PF/C,C,15
+129857,1123302,Cina,SCC,20,4,P.J. Washington,1869,SCC,PF/C,BN,21
+129857,1123302,Cina,SCC,20,4,Rui Hachimura,1875,SCC,PF,BN,48.5

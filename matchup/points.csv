@@ -1,0 +1,625 @@
+team_id,manager_id,manager_name,team,season,week,player_name,player_id,team,position,set_pos,points
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Brandon Ingram,1459,Mein Gott Walter,PG/F,ANY,76.3
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Dario Saric,1139,Mein Gott Walter,F,BN,35.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Derrick Favors,632,Mein Gott Walter,PF/C,PF/C,27
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Dewayne Dedmon,1096,Mein Gott Walter,C,BN,18.8
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Evan Fournier,907,Mein Gott Walter,SG/SF,BN,43.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Ja Morant,1883,Mein Gott Walter,PG,ANY,45.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Jamal Murray,1445,Mein Gott Walter,G,G,53.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Jonathan Isaac,1562,Mein Gott Walter,F,SG/SF,28
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Kevin Knox,1683,Mein Gott Walter,F,PF,31.7
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Kyrie Irving,754,Mein Gott Walter,PG,PG,92.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Luka Doncic,1701,Mein Gott Walter,G/SF,SF,88.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Thomas Bryant,1588,Mein Gott Walter,PF/C,C,52
+129856,1022477,AsbachUralt,Mein Gott Walter,20,1,Zach LaVine,1148,Mein Gott Walter,G,SG,55.3
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Brandon Ingram,1459,Mein Gott Walter,PG/F,ANY,53.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Cody Zeller,1055,Mein Gott Walter,C,BN,43.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Dario Saric,1139,Mein Gott Walter,F,BN,37.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Derrick Favors,632,Mein Gott Walter,PF/C,PF/C,0
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Evan Fournier,907,Mein Gott Walter,SG/SF,ANY,36.4
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Ja Morant,1883,Mein Gott Walter,PG,BN,46.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Jamal Murray,1445,Mein Gott Walter,G,G,41.1
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Jonathan Isaac,1562,Mein Gott Walter,F,SG/SF,47.4
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Kevin Knox,1683,Mein Gott Walter,F,PF,26.8
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Kyrie Irving,754,Mein Gott Walter,PG,PG,73
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Luka Doncic,1701,Mein Gott Walter,G/SF,SF,87.8
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Thomas Bryant,1588,Mein Gott Walter,PF/C,C,47.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,2,Zach LaVine,1148,Mein Gott Walter,G,SG,46
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Brandon Ingram,1459,Mein Gott Walter,PG/F,PF,68.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Cody Zeller,1055,Mein Gott Walter,C,PF/C,31.1
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Dario Saric,1139,Mein Gott Walter,F,BN,26.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Evan Fournier,907,Mein Gott Walter,SG/SF,ANY,39.1
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Ja Morant,1883,Mein Gott Walter,PG,ANY,40.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Jamal Murray,1445,Mein Gott Walter,G,G,53
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Jonathan Isaac,1562,Mein Gott Walter,F,SG/SF,55.9
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Kyrie Irving,754,Mein Gott Walter,PG,PG,70.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Luka Doncic,1701,Mein Gott Walter,G/SF,SF,85.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,P.J. Tucker,953,Mein Gott Walter,F/C,BN,38.3
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Thomas Bryant,1588,Mein Gott Walter,PF/C,C,52.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,3,Zach LaVine,1148,Mein Gott Walter,G,SG,47.8
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Brandon Ingram,1459,Mein Gott Walter,PG/F,PF,0
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Cody Zeller,1055,Mein Gott Walter,C,PF/C,47.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Dario Saric,1139,Mein Gott Walter,F,BN,52
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Dillon Brooks,1575,Mein Gott Walter,SG/SF,BN,48.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Evan Fournier,907,Mein Gott Walter,SG/SF,ANY,30.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Ja Morant,1883,Mein Gott Walter,PG,ANY,44.2
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Jamal Murray,1445,Mein Gott Walter,G,G,53.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Jonathan Isaac,1562,Mein Gott Walter,F,SG/SF,32.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Kyrie Irving,754,Mein Gott Walter,PG,PG,55.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Luka Doncic,1701,Mein Gott Walter,G/SF,SF,84
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,P.J. Tucker,953,Mein Gott Walter,F/C,BN,26.8
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Thomas Bryant,1588,Mein Gott Walter,PF/C,C,39.5
+129856,1022477,AsbachUralt,Mein Gott Walter,20,4,Zach LaVine,1148,Mein Gott Walter,G,SG,55.5
+129857,1123302,Cina,SCC,20,1,Bojan Bogdanovic,784,SCC,SG/F,SG/SF,47.5
+129857,1123302,Cina,SCC,20,1,Caris LeVert,1416,SCC,G/SF,G,45.5
+129857,1123302,Cina,SCC,20,1,Damian Lillard,932,SCC,PG,PG,73.5
+129857,1123302,Cina,SCC,20,1,Enes Kanter,756,SCC,C,ANY,31
+129857,1123302,Cina,SCC,20,1,Goran Dragic,132,SCC,PG,BN,48.5
+129857,1123302,Cina,SCC,20,1,Jarrett Allen,1538,SCC,PF/C,PF/C,39.2
+129857,1123302,Cina,SCC,20,1,Jayson Tatum,1532,SCC,F,SF,62.8
+129857,1123302,Cina,SCC,20,1,Jimmy Butler,783,SCC,SG/SF,SG,0
+129857,1123302,Cina,SCC,20,1,Kristaps Porzingis,1303,SCC,PF/C,C,66.3
+129857,1123302,Cina,SCC,20,1,Marcus Morris,767,SCC,F,ANY,38.5
+129857,1123302,Cina,SCC,20,1,Reggie Jackson,777,SCC,G,BN,19.2
+129857,1123302,Cina,SCC,20,1,Rui Hachimura,1875,SCC,PF,PF,43.3
+129857,1123302,Cina,SCC,20,1,Willie Cauley-Stein,1254,SCC,C,BN,0
+129857,1123302,Cina,SCC,20,2,Bojan Bogdanovic,784,SCC,SG/F,G,48
+129857,1123302,Cina,SCC,20,2,Bryn Forbes,1507,SCC,G,ANY,30.9
+129857,1123302,Cina,SCC,20,2,Caris LeVert,1416,SCC,G/SF,SG/SF,38
+129857,1123302,Cina,SCC,20,2,Damian Lillard,932,SCC,PG,PG,85.8
+129857,1123302,Cina,SCC,20,2,Enes Kanter,756,SCC,C,BN,0
+129857,1123302,Cina,SCC,20,2,Goran Dragic,132,SCC,PG,ANY,34
+129857,1123302,Cina,SCC,20,2,Jarrett Allen,1538,SCC,PF/C,PF/C,28.2
+129857,1123302,Cina,SCC,20,2,Jayson Tatum,1532,SCC,F,SF,58.5
+129857,1123302,Cina,SCC,20,2,Jimmy Butler,783,SCC,SG/SF,SG,60.8
+129857,1123302,Cina,SCC,20,2,Kristaps Porzingis,1303,SCC,PF/C,C,50.7
+129857,1123302,Cina,SCC,20,2,Marcus Morris,767,SCC,F,PF,51.2
+129857,1123302,Cina,SCC,20,2,Rui Hachimura,1875,SCC,PF,BN,27.5
+129857,1123302,Cina,SCC,20,2,Willie Cauley-Stein,1254,SCC,C,BN,29.2
+129857,1123302,Cina,SCC,20,3,Bojan Bogdanovic,784,SCC,SG/F,G,59.8
+129857,1123302,Cina,SCC,20,3,Bryn Forbes,1507,SCC,G,BN,35
+129857,1123302,Cina,SCC,20,3,Caris LeVert,1416,SCC,G/SF,SG/SF,37
+129857,1123302,Cina,SCC,20,3,Damian Lillard,932,SCC,PG,PG,86.8
+129857,1123302,Cina,SCC,20,3,Davis Bertans,1510,SCC,F,BN,26.3
+129857,1123302,Cina,SCC,20,3,DeAndre Jordan,262,SCC,C,ANY,40.5
+129857,1123302,Cina,SCC,20,3,Enes Kanter,756,SCC,C,BN,0
+129857,1123302,Cina,SCC,20,3,Goran Dragic,132,SCC,PG,ANY,50.7
+129857,1123302,Cina,SCC,20,3,Jayson Tatum,1532,SCC,F,SF,56.2
+129857,1123302,Cina,SCC,20,3,Jimmy Butler,783,SCC,SG/SF,SG,56.5
+129857,1123302,Cina,SCC,20,3,Kristaps Porzingis,1303,SCC,PF/C,C,52
+129857,1123302,Cina,SCC,20,3,Rui Hachimura,1875,SCC,PF,PF,34.3
+129857,1123302,Cina,SCC,20,3,Willie Cauley-Stein,1254,SCC,C,PF/C,25.5
+129857,1123302,Cina,SCC,20,4,Bojan Bogdanovic,784,SCC,SG/F,PF,26.8
+129857,1123302,Cina,SCC,20,4,Brandon Clarke,1892,SCC,PF/C,PF/C,36.5
+129857,1123302,Cina,SCC,20,4,Caris LeVert,1416,SCC,G/SF,BN,0
+129857,1123302,Cina,SCC,20,4,Damian Lillard,932,SCC,PG,PG,51.2
+129857,1123302,Cina,SCC,20,4,Danuel House,1478,SCC,F,ANY,6.5
+129857,1123302,Cina,SCC,20,4,Enes Kanter,756,SCC,C,ANY,25
+129857,1123302,Cina,SCC,20,4,Eric Paschall,1877,SCC,F,SG/SF,25.2
+129857,1123302,Cina,SCC,20,4,Goran Dragic,132,SCC,PG,G,48.5
+129857,1123302,Cina,SCC,20,4,Jayson Tatum,1532,SCC,F,SF,35
+129857,1123302,Cina,SCC,20,4,Jimmy Butler,783,SCC,SG/SF,SG,69.5
+129857,1123302,Cina,SCC,20,4,Kristaps Porzingis,1303,SCC,PF/C,C,15
+129857,1123302,Cina,SCC,20,4,P.J. Washington,1869,SCC,PF/C,BN,21
+129857,1123302,Cina,SCC,20,4,Rui Hachimura,1875,SCC,PF,BN,48.5
+129858,1123308,lazn,bratkartoffeln beste,20,1,Bogdan Bogdanovic,1188,bratkartoffeln beste,G/SF,G,24.8
+129858,1123308,lazn,bratkartoffeln beste,20,1,Cedi Osman,1288,bratkartoffeln beste,F,BN,19.2
+129858,1123308,lazn,bratkartoffeln beste,20,1,Coby White,1859,bratkartoffeln beste,G,BN,42.2
+129858,1123308,lazn,bratkartoffeln beste,20,1,De'Aaron Fox,1572,bratkartoffeln beste,PG,PG,33.2
+129858,1123308,lazn,bratkartoffeln beste,20,1,Dennis Schroder,1018,bratkartoffeln beste,G,ANY,37.5
+129858,1123308,lazn,bratkartoffeln beste,20,1,Domantas Sabonis,1442,bratkartoffeln beste,PF/C,ANY,51.2
+129858,1123308,lazn,bratkartoffeln beste,20,1,James Harden,194,bratkartoffeln beste,G,SG,57.5
+129858,1123308,lazn,bratkartoffeln beste,20,1,Jaren Jackson,1724,bratkartoffeln beste,PF/C,PF/C,46
+129858,1123308,lazn,bratkartoffeln beste,20,1,Kyle Kuzma,1536,bratkartoffeln beste,F/C,BN,0
+129858,1123308,lazn,bratkartoffeln beste,20,1,Lauri Markkanen,1583,bratkartoffeln beste,PF/C,PF,51.2
+129858,1123308,lazn,bratkartoffeln beste,20,1,OG Anunoby,1547,bratkartoffeln beste,F,SG/SF,42
+129858,1123308,lazn,bratkartoffeln beste,20,1,Rudy Gobert,1009,bratkartoffeln beste,C,C,27.5
+129858,1123308,lazn,bratkartoffeln beste,20,1,Tobias Harris,772,bratkartoffeln beste,F,SF,66.5
+129858,1123308,lazn,bratkartoffeln beste,20,2,Bogdan Bogdanovic,1188,bratkartoffeln beste,G/SF,G,29.2
+129858,1123308,lazn,bratkartoffeln beste,20,2,Cedi Osman,1288,bratkartoffeln beste,F,BN,33.5
+129858,1123308,lazn,bratkartoffeln beste,20,2,Coby White,1859,bratkartoffeln beste,G,ANY,14.8
+129858,1123308,lazn,bratkartoffeln beste,20,2,De'Aaron Fox,1572,bratkartoffeln beste,PG,PG,55.1
+129858,1123308,lazn,bratkartoffeln beste,20,2,Dennis Schroder,1018,bratkartoffeln beste,G,ANY,47.3
+129858,1123308,lazn,bratkartoffeln beste,20,2,Domantas Sabonis,1442,bratkartoffeln beste,PF/C,PF/C,68.5
+129858,1123308,lazn,bratkartoffeln beste,20,2,James Harden,194,bratkartoffeln beste,G,SG,83.6
+129858,1123308,lazn,bratkartoffeln beste,20,2,Jaren Jackson,1724,bratkartoffeln beste,PF/C,BN,21
+129858,1123308,lazn,bratkartoffeln beste,20,2,Kyle Kuzma,1536,bratkartoffeln beste,F/C,BN,15.2
+129858,1123308,lazn,bratkartoffeln beste,20,2,Lauri Markkanen,1583,bratkartoffeln beste,PF/C,PF,41.4
+129858,1123308,lazn,bratkartoffeln beste,20,2,OG Anunoby,1547,bratkartoffeln beste,F,SG/SF,45
+129858,1123308,lazn,bratkartoffeln beste,20,2,Rudy Gobert,1009,bratkartoffeln beste,C,C,51.1
+129858,1123308,lazn,bratkartoffeln beste,20,2,Tobias Harris,772,bratkartoffeln beste,F,SF,49
+129858,1123308,lazn,bratkartoffeln beste,20,3,Bogdan Bogdanovic,1188,bratkartoffeln beste,G/SF,BN,60.8
+129858,1123308,lazn,bratkartoffeln beste,20,3,Cedi Osman,1288,bratkartoffeln beste,F,ANY,32.5
+129858,1123308,lazn,bratkartoffeln beste,20,3,Coby White,1859,bratkartoffeln beste,G,BN,27.7
+129858,1123308,lazn,bratkartoffeln beste,20,3,De'Aaron Fox,1572,bratkartoffeln beste,PG,PG,53
+129858,1123308,lazn,bratkartoffeln beste,20,3,Dennis Schroder,1018,bratkartoffeln beste,G,G,40.6
+129858,1123308,lazn,bratkartoffeln beste,20,3,Domantas Sabonis,1442,bratkartoffeln beste,PF/C,PF/C,70.3
+129858,1123308,lazn,bratkartoffeln beste,20,3,James Harden,194,bratkartoffeln beste,G,SG,114.5
+129858,1123308,lazn,bratkartoffeln beste,20,3,Jaren Jackson,1724,bratkartoffeln beste,PF/C,BN,26.7
+129858,1123308,lazn,bratkartoffeln beste,20,3,Kyle Kuzma,1536,bratkartoffeln beste,F/C,ANY,26.8
+129858,1123308,lazn,bratkartoffeln beste,20,3,Lauri Markkanen,1583,bratkartoffeln beste,PF/C,PF,36
+129858,1123308,lazn,bratkartoffeln beste,20,3,OG Anunoby,1547,bratkartoffeln beste,F,SG/SF,50
+129858,1123308,lazn,bratkartoffeln beste,20,3,Rudy Gobert,1009,bratkartoffeln beste,C,C,52.2
+129858,1123308,lazn,bratkartoffeln beste,20,3,Tobias Harris,772,bratkartoffeln beste,F,SF,51
+129858,1123308,lazn,bratkartoffeln beste,20,4,Bogdan Bogdanovic,1188,bratkartoffeln beste,G/SF,G,80
+129858,1123308,lazn,bratkartoffeln beste,20,4,Cedi Osman,1288,bratkartoffeln beste,F,BN,10.5
+129858,1123308,lazn,bratkartoffeln beste,20,4,Coby White,1859,bratkartoffeln beste,G,BN,67
+129858,1123308,lazn,bratkartoffeln beste,20,4,De'Aaron Fox,1572,bratkartoffeln beste,PG,BN,0
+129858,1123308,lazn,bratkartoffeln beste,20,4,Dennis Schroder,1018,bratkartoffeln beste,G,PG,21
+129858,1123308,lazn,bratkartoffeln beste,20,4,Domantas Sabonis,1442,bratkartoffeln beste,PF/C,PF/C,63
+129858,1123308,lazn,bratkartoffeln beste,20,4,James Harden,194,bratkartoffeln beste,G,SG,99
+129858,1123308,lazn,bratkartoffeln beste,20,4,Jaren Jackson,1724,bratkartoffeln beste,PF/C,ANY,60.5
+129858,1123308,lazn,bratkartoffeln beste,20,4,Kyle Kuzma,1536,bratkartoffeln beste,F/C,ANY,49
+129858,1123308,lazn,bratkartoffeln beste,20,4,Lauri Markkanen,1583,bratkartoffeln beste,PF/C,PF,34.5
+129858,1123308,lazn,bratkartoffeln beste,20,4,OG Anunoby,1547,bratkartoffeln beste,F,SG/SF,0.5
+129858,1123308,lazn,bratkartoffeln beste,20,4,Rudy Gobert,1009,bratkartoffeln beste,C,C,74.5
+129858,1123308,lazn,bratkartoffeln beste,20,4,Tobias Harris,772,bratkartoffeln beste,F,SF,32.2
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,Bam Adebayo,1560,Knights of sweet love,PF/C,PF/C,55.2
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,Darius Garland,1861,Knights of sweet love,PG,BN,28.2
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,Dwight Howard,219,Knights of sweet love,C,BN,35.7
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,Gary Harris,1131,Knights of sweet love,SG,SG,22.5
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,Jeff Teague,435,Knights of sweet love,PG,ANY,36.2
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,John Collins,1555,Knights of sweet love,PF/C,PF,52.2
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,Jonas Valanciunas,758,Knights of sweet love,C,BN,40.7
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,Karl-Anthony Towns,1301,Knights of sweet love,C,C,106
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,Ricky Rubio,400,Knights of sweet love,PG,G,49.8
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,Shai Gilgeous-Alexander,1703,Knights of sweet love,G,SG/SF,60.7
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,Terry Rozier,1290,Knights of sweet love,PG,ANY,40.7
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,Trae Young,1722,Knights of sweet love,PG,PG,97.2
+129861,1123329,CaramelThunders,Knights of sweet love,20,1,Trevor Ariza,19,Knights of sweet love,F,SF,10.3
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,Bam Adebayo,1560,Knights of sweet love,PF/C,PF/C,50
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,Darius Garland,1861,Knights of sweet love,PG,ANY,16.8
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,Dwight Howard,219,Knights of sweet love,C,BN,38
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,Gary Harris,1131,Knights of sweet love,SG,SG,38.6
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,Jeff Teague,435,Knights of sweet love,PG,BN,50.5
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,John Collins,1555,Knights of sweet love,PF/C,PF,57
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,Jonas Valanciunas,758,Knights of sweet love,C,BN,40
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,Josh Hart,1590,Knights of sweet love,G/SF,SF,37
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,Karl-Anthony Towns,1301,Knights of sweet love,C,C,44.5
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,Ricky Rubio,400,Knights of sweet love,PG,G,45.2
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,Shai Gilgeous-Alexander,1703,Knights of sweet love,G,SG/SF,51.3
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,Terry Rozier,1290,Knights of sweet love,PG,ANY,51
+129861,1123329,CaramelThunders,Knights of sweet love,20,2,Trae Young,1722,Knights of sweet love,PG,PG,35
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,Bam Adebayo,1560,Knights of sweet love,PF/C,PF/C,49.7
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,Gary Harris,1131,Knights of sweet love,SG,SG,24.2
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,Isaiah Thomas,810,Knights of sweet love,PG,BN,28.2
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,Jeff Teague,435,Knights of sweet love,PG,G,26.5
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,John Collins,1555,Knights of sweet love,PF/C,BN,0
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,Jonas Valanciunas,758,Knights of sweet love,C,ANY,37
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,Josh Hart,1590,Knights of sweet love,G/SF,SF,30.3
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,Karl-Anthony Towns,1301,Knights of sweet love,C,C,76.3
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,Otto Porter,1042,Knights of sweet love,F,PF,44.5
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,Ricky Rubio,400,Knights of sweet love,PG,BN,67.5
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,Shai Gilgeous-Alexander,1703,Knights of sweet love,G,SG/SF,46.8
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,Terry Rozier,1290,Knights of sweet love,PG,ANY,34.5
+129861,1123329,CaramelThunders,Knights of sweet love,20,3,Trae Young,1722,Knights of sweet love,PG,PG,71.8
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,Bam Adebayo,1560,Knights of sweet love,PF/C,PF/C,56.5
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,Gary Harris,1131,Knights of sweet love,SG,SG,36.5
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,Isaiah Thomas,810,Knights of sweet love,PG,BN,47
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,Jarrett Allen,1538,Knights of sweet love,PF/C,PF,22.5
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,Jeff Teague,435,Knights of sweet love,PG,BN,50
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,John Collins,1555,Knights of sweet love,PF/C,BN,0
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,Jonas Valanciunas,758,Knights of sweet love,C,ANY,58.5
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,Karl-Anthony Towns,1301,Knights of sweet love,C,C,80.2
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,Otto Porter,1042,Knights of sweet love,F,SF,0
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,Ricky Rubio,400,Knights of sweet love,PG,G,68
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,Shai Gilgeous-Alexander,1703,Knights of sweet love,G,SG/SF,25
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,Terry Rozier,1290,Knights of sweet love,PG,ANY,88
+129861,1123329,CaramelThunders,Knights of sweet love,20,4,Trae Young,1722,Knights of sweet love,PG,PG,111
+131379,1022565,kevowest,skinny bitches,20,1,Andre Drummond,931,skinny bitches,C,PF/C,76.7
+131379,1022565,kevowest,skinny bitches,20,1,Collin Sexton,1693,skinny bitches,G,G,36.5
+131379,1022565,kevowest,skinny bitches,20,1,DeAndre Jordan,262,skinny bitches,C,ANY,23.7
+131379,1022565,kevowest,skinny bitches,20,1,Dennis Smith,1573,skinny bitches,PG,ANY,3.3
+131379,1022565,kevowest,skinny bitches,20,1,Ivica Zubac,1460,skinny bitches,C,BN,29
+131379,1022565,kevowest,skinny bitches,20,1,Joe Ingles,1218,skinny bitches,SG/F,SG/SF,22.3
+131379,1022565,kevowest,skinny bitches,20,1,Markelle Fultz,1543,skinny bitches,G,BN,32.2
+131379,1022565,kevowest,skinny bitches,20,1,Michael Porter,1729,skinny bitches,SG/F,BN,0
+131379,1022565,kevowest,skinny bitches,20,1,Mike Conley,98,skinny bitches,PG,PG,25.3
+131379,1022565,kevowest,skinny bitches,20,1,Miles Bridges,1710,skinny bitches,F,SF,38.7
+131379,1022565,kevowest,skinny bitches,20,1,Nikola Jokic,1134,skinny bitches,F/C,C,79
+131379,1022565,kevowest,skinny bitches,20,1,Pascal Siakam,1421,skinny bitches,PF/C,PF,70.7
+131379,1022565,kevowest,skinny bitches,20,1,RJ Barrett,1850,skinny bitches,G/SF,SG,51.3
+131379,1022565,kevowest,skinny bitches,20,2,Andre Drummond,931,skinny bitches,C,PF/C,84
+131379,1022565,kevowest,skinny bitches,20,2,Aron Baynes,1003,skinny bitches,C,ANY,58.5
+131379,1022565,kevowest,skinny bitches,20,2,Collin Sexton,1693,skinny bitches,G,G,35.8
+131379,1022565,kevowest,skinny bitches,20,2,DeAndre Jordan,262,skinny bitches,C,BN,40.3
+131379,1022565,kevowest,skinny bitches,20,2,Joe Ingles,1218,skinny bitches,SG/F,BN,31.2
+131379,1022565,kevowest,skinny bitches,20,2,Kendrick Nunn,1806,skinny bitches,PG,ANY,37.7
+131379,1022565,kevowest,skinny bitches,20,2,Luke Kennard,1550,skinny bitches,SG/SF,SG/SF,38.1
+131379,1022565,kevowest,skinny bitches,20,2,Michael Porter,1729,skinny bitches,SG/F,BN,20.5
+131379,1022565,kevowest,skinny bitches,20,2,Mike Conley,98,skinny bitches,PG,PG,33.1
+131379,1022565,kevowest,skinny bitches,20,2,Miles Bridges,1710,skinny bitches,F,SF,29.2
+131379,1022565,kevowest,skinny bitches,20,2,Nikola Jokic,1134,skinny bitches,F/C,C,51.6
+131379,1022565,kevowest,skinny bitches,20,2,Pascal Siakam,1421,skinny bitches,PF/C,PF,56.2
+131379,1022565,kevowest,skinny bitches,20,2,RJ Barrett,1850,skinny bitches,G/SF,SG,43.8
+131379,1022565,kevowest,skinny bitches,20,3,Andre Drummond,931,skinny bitches,C,PF/C,72.2
+131379,1022565,kevowest,skinny bitches,20,3,Aron Baynes,1003,skinny bitches,C,ANY,51.3
+131379,1022565,kevowest,skinny bitches,20,3,Collin Sexton,1693,skinny bitches,G,BN,49.2
+131379,1022565,kevowest,skinny bitches,20,3,DeAndre' Bembry,1410,skinny bitches,G/SF,G,21.9
+131379,1022565,kevowest,skinny bitches,20,3,Kendrick Nunn,1806,skinny bitches,PG,PG,27.2
+131379,1022565,kevowest,skinny bitches,20,3,Luke Kennard,1550,skinny bitches,SG/SF,SG/SF,54.8
+131379,1022565,kevowest,skinny bitches,20,3,Michael Porter,1729,skinny bitches,SG/F,BN,9.2
+131379,1022565,kevowest,skinny bitches,20,3,Mike Conley,98,skinny bitches,PG,BN,44.8
+131379,1022565,kevowest,skinny bitches,20,3,Miles Bridges,1710,skinny bitches,F,SF,39.6
+131379,1022565,kevowest,skinny bitches,20,3,Nikola Jokic,1134,skinny bitches,F/C,C,58.8
+131379,1022565,kevowest,skinny bitches,20,3,P.J. Washington,1869,skinny bitches,PF/C,ANY,37.1
+131379,1022565,kevowest,skinny bitches,20,3,Pascal Siakam,1421,skinny bitches,PF/C,PF,82.8
+131379,1022565,kevowest,skinny bitches,20,3,RJ Barrett,1850,skinny bitches,G/SF,SG,26.5
+131379,1022565,kevowest,skinny bitches,20,3,Richaun Holmes,1258,skinny bitches,PF/C,BN,28
+131379,1022565,kevowest,skinny bitches,20,4,Alec Burks,765,skinny bitches,G,ANY,29.2
+131379,1022565,kevowest,skinny bitches,20,4,Andre Drummond,931,skinny bitches,C,PF/C,52.2
+131379,1022565,kevowest,skinny bitches,20,4,Aron Baynes,1003,skinny bitches,C,ANY,55.5
+131379,1022565,kevowest,skinny bitches,20,4,Collin Sexton,1693,skinny bitches,G,G,42
+131379,1022565,kevowest,skinny bitches,20,4,Deandre Ayton,1716,skinny bitches,C,BN,0
+131379,1022565,kevowest,skinny bitches,20,4,George Hill,211,skinny bitches,G,BN,0
+131379,1022565,kevowest,skinny bitches,20,4,Josh Hart,1590,skinny bitches,G/SF,SG,53.5
+131379,1022565,kevowest,skinny bitches,20,4,Luke Kennard,1550,skinny bitches,SG/SF,SG/SF,60.5
+131379,1022565,kevowest,skinny bitches,20,4,Malcolm Brogdon,1411,skinny bitches,G,PG,50
+131379,1022565,kevowest,skinny bitches,20,4,Miles Bridges,1710,skinny bitches,F,PF,52.5
+131379,1022565,kevowest,skinny bitches,20,4,Pascal Siakam,1421,skinny bitches,PF/C,C,68.2
+131379,1022565,kevowest,skinny bitches,20,4,RJ Barrett,1850,skinny bitches,G/SF,SF,66.5
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Dejounte Murray,1443,CaptainStrikersMob,PG,BN,62.2
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Devin Booker,1309,CaptainStrikersMob,G,PG,60.5
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Fred VanVleet,1476,CaptainStrikersMob,G,ANY,56.7
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Giannis Antetokounmpo,1049,CaptainStrikersMob,F,SF,102
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Hassan Whiteside,675,CaptainStrikersMob,C,BN,50.5
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Justise Winslow,1259,CaptainStrikersMob,PG/F,ANY,59.3
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Kevin Love,285,CaptainStrikersMob,PF/C,PF,68
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Lonzo Ball,1565,CaptainStrikersMob,PG,G,52.5
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Patrick Beverley,43,CaptainStrikersMob,G,SG/SF,32.3
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Steven Adams,1024,CaptainStrikersMob,C,C,30
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Tim Hardaway,1052,CaptainStrikersMob,SG/SF,SG,14.5
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Tristan Thompson,757,CaptainStrikersMob,C,PF/C,65.8
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,1,Victor Oladipo,1059,CaptainStrikersMob,G,BN,0
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Dejounte Murray,1443,CaptainStrikersMob,PG,ANY,44.2
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Devin Booker,1309,CaptainStrikersMob,G,SG,51.8
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Frank Kaminsky,1286,CaptainStrikersMob,PF/C,BN,23.8
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Fred VanVleet,1476,CaptainStrikersMob,G,ANY,44.8
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Giannis Antetokounmpo,1049,CaptainStrikersMob,F,SF,80.6
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Hassan Whiteside,675,CaptainStrikersMob,C,C,36.2
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Justise Winslow,1259,CaptainStrikersMob,PG/F,PG,16
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Kevin Love,285,CaptainStrikersMob,PF/C,PF,70.9
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Lonzo Ball,1565,CaptainStrikersMob,PG,G,44.7
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Patrick Beverley,43,CaptainStrikersMob,G,SG/SF,25.4
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Steven Adams,1024,CaptainStrikersMob,C,BN,32
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Tristan Thompson,757,CaptainStrikersMob,C,PF/C,56.6
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,2,Victor Oladipo,1059,CaptainStrikersMob,G,BN,0
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Dejounte Murray,1443,CaptainStrikersMob,PG,ANY,32.7
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Devin Booker,1309,CaptainStrikersMob,G,SG,67
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Frank Kaminsky,1286,CaptainStrikersMob,PF/C,BN,13.2
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Fred VanVleet,1476,CaptainStrikersMob,G,SG/SF,58.5
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Giannis Antetokounmpo,1049,CaptainStrikersMob,F,SF,97
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Hassan Whiteside,675,CaptainStrikersMob,C,C,63.8
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Jabari Parker,1177,CaptainStrikersMob,F,BN,60
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Justise Winslow,1259,CaptainStrikersMob,PG/F,PG,23
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Kevin Love,285,CaptainStrikersMob,PF/C,PF,47.5
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Lonzo Ball,1565,CaptainStrikersMob,PG,G,28
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Patrick Beverley,43,CaptainStrikersMob,G,BN,46.5
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Steven Adams,1024,CaptainStrikersMob,C,ANY,40
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Tristan Thompson,757,CaptainStrikersMob,C,PF/C,59.3
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,3,Victor Oladipo,1059,CaptainStrikersMob,G,BN,0
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Dejounte Murray,1443,CaptainStrikersMob,PG,ANY,23.2
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Devin Booker,1309,CaptainStrikersMob,G,SG,50
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Fred VanVleet,1476,CaptainStrikersMob,G,SG/SF,62.8
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Giannis Antetokounmpo,1049,CaptainStrikersMob,F,SF,0
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Hassan Whiteside,675,CaptainStrikersMob,C,C,40.8
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Jabari Parker,1177,CaptainStrikersMob,F,ANY,52
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Justise Winslow,1259,CaptainStrikersMob,PG/F,BN,0
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Kevin Love,285,CaptainStrikersMob,PF/C,PF,43
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Lonzo Ball,1565,CaptainStrikersMob,PG,G,0
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Patrick Beverley,43,CaptainStrikersMob,G,PG,20.8
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Steven Adams,1024,CaptainStrikersMob,C,BN,27.5
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Tristan Thompson,757,CaptainStrikersMob,C,PF/C,54
+131635,1022568,Captain_Striker,CaptainStrikersMob,20,4,Victor Oladipo,1059,CaptainStrikersMob,G,BN,0
+131636,1127841,Daniel96,Dunkin Dullies,20,1,Blake Griffin,187,Dunkin Dullies,PF,BN,0
+131636,1127841,Daniel96,Dunkin Dullies,20,1,Chris Paul,362,Dunkin Dullies,PG,ANY,33.8
+131636,1127841,Daniel96,Dunkin Dullies,20,1,De'Andre Hunter,1867,Dunkin Dullies,F,BN,23
+131636,1127841,Daniel96,Dunkin Dullies,20,1,DeMar DeRozan,117,Dunkin Dullies,SG/SF,SG,42
+131636,1127841,Daniel96,Dunkin Dullies,20,1,Harrison Barnes,904,Dunkin Dullies,F,SG/SF,28.7
+131636,1127841,Daniel96,Dunkin Dullies,20,1,Jerami Grant,1144,Dunkin Dullies,PF/C,BN,24.5
+131636,1127841,Daniel96,Dunkin Dullies,20,1,Jeremy Lamb,908,Dunkin Dullies,SG/SF,SF,25.5
+131636,1127841,Daniel96,Dunkin Dullies,20,1,Joel Embiid,1143,Dunkin Dullies,C,C,62.5
+131636,1127841,Daniel96,Dunkin Dullies,20,1,Josh Richardson,1262,Dunkin Dullies,G/SF,G,35.8
+131636,1127841,Daniel96,Dunkin Dullies,20,1,Jrue Holiday,215,Dunkin Dullies,G,PG,37
+131636,1127841,Daniel96,Dunkin Dullies,20,1,Julius Randle,1169,Dunkin Dullies,PF/C,PF/C,52.8
+131636,1127841,Daniel96,Dunkin Dullies,20,1,Montrezl Harrell,1275,Dunkin Dullies,PF/C,ANY,48.8
+131636,1127841,Daniel96,Dunkin Dullies,20,1,Otto Porter,1042,Dunkin Dullies,F,PF,21.7
+131636,1127841,Daniel96,Dunkin Dullies,20,2,Blake Griffin,187,Dunkin Dullies,PF,BN,0
+131636,1127841,Daniel96,Dunkin Dullies,20,2,Chris Paul,362,Dunkin Dullies,PG,ANY,48.3
+131636,1127841,Daniel96,Dunkin Dullies,20,2,De'Andre Hunter,1867,Dunkin Dullies,F,SF,21.3
+131636,1127841,Daniel96,Dunkin Dullies,20,2,DeMar DeRozan,117,Dunkin Dullies,SG/SF,SG,46.1
+131636,1127841,Daniel96,Dunkin Dullies,20,2,Harrison Barnes,904,Dunkin Dullies,F,SG/SF,45.2
+131636,1127841,Daniel96,Dunkin Dullies,20,2,Jerami Grant,1144,Dunkin Dullies,PF/C,PF,17.1
+131636,1127841,Daniel96,Dunkin Dullies,20,2,Jeremy Lamb,908,Dunkin Dullies,SG/SF,BN,55.3
+131636,1127841,Daniel96,Dunkin Dullies,20,2,Joel Embiid,1143,Dunkin Dullies,C,C,73.2
+131636,1127841,Daniel96,Dunkin Dullies,20,2,Josh Richardson,1262,Dunkin Dullies,G/SF,G,41.7
+131636,1127841,Daniel96,Dunkin Dullies,20,2,Jrue Holiday,215,Dunkin Dullies,G,PG,54
+131636,1127841,Daniel96,Dunkin Dullies,20,2,Julius Randle,1169,Dunkin Dullies,PF/C,PF/C,39.1
+131636,1127841,Daniel96,Dunkin Dullies,20,2,Montrezl Harrell,1275,Dunkin Dullies,PF/C,ANY,41.1
+131636,1127841,Daniel96,Dunkin Dullies,20,2,Otto Porter,1042,Dunkin Dullies,F,BN,33
+131636,1127841,Daniel96,Dunkin Dullies,20,3,Blake Griffin,187,Dunkin Dullies,PF,BN,0
+131636,1127841,Daniel96,Dunkin Dullies,20,3,Chris Paul,362,Dunkin Dullies,PG,ANY,52
+131636,1127841,Daniel96,Dunkin Dullies,20,3,De'Andre Hunter,1867,Dunkin Dullies,F,BN,26.8
+131636,1127841,Daniel96,Dunkin Dullies,20,3,DeMar DeRozan,117,Dunkin Dullies,SG/SF,SG,49.5
+131636,1127841,Daniel96,Dunkin Dullies,20,3,Harrison Barnes,904,Dunkin Dullies,F,BN,56.2
+131636,1127841,Daniel96,Dunkin Dullies,20,3,Jeremy Lamb,908,Dunkin Dullies,SG/SF,SF,48
+131636,1127841,Daniel96,Dunkin Dullies,20,3,Joel Embiid,1143,Dunkin Dullies,C,C,63.2
+131636,1127841,Daniel96,Dunkin Dullies,20,3,Josh Richardson,1262,Dunkin Dullies,G/SF,G,39.1
+131636,1127841,Daniel96,Dunkin Dullies,20,3,Jrue Holiday,215,Dunkin Dullies,G,PG,54
+131636,1127841,Daniel96,Dunkin Dullies,20,3,Julius Randle,1169,Dunkin Dullies,PF/C,PF/C,51.7
+131636,1127841,Daniel96,Dunkin Dullies,20,3,Marcus Morris,767,Dunkin Dullies,F,SG/SF,45.8
+131636,1127841,Daniel96,Dunkin Dullies,20,3,Montrezl Harrell,1275,Dunkin Dullies,PF/C,ANY,70.2
+131636,1127841,Daniel96,Dunkin Dullies,20,3,Taurean Prince,1436,Dunkin Dullies,F,PF,31
+131636,1127841,Daniel96,Dunkin Dullies,20,4,Blake Griffin,187,Dunkin Dullies,PF,BN,46.5
+131636,1127841,Daniel96,Dunkin Dullies,20,4,Chris Paul,362,Dunkin Dullies,PG,ANY,35
+131636,1127841,Daniel96,Dunkin Dullies,20,4,De'Andre Hunter,1867,Dunkin Dullies,F,BN,37.5
+131636,1127841,Daniel96,Dunkin Dullies,20,4,DeMar DeRozan,117,Dunkin Dullies,SG/SF,SG,51.2
+131636,1127841,Daniel96,Dunkin Dullies,20,4,Harrison Barnes,904,Dunkin Dullies,F,SF,34
+131636,1127841,Daniel96,Dunkin Dullies,20,4,Jeremy Lamb,908,Dunkin Dullies,SG/SF,BN,0
+131636,1127841,Daniel96,Dunkin Dullies,20,4,Joel Embiid,1143,Dunkin Dullies,C,C,91.5
+131636,1127841,Daniel96,Dunkin Dullies,20,4,Josh Richardson,1262,Dunkin Dullies,G/SF,G,44
+131636,1127841,Daniel96,Dunkin Dullies,20,4,Jrue Holiday,215,Dunkin Dullies,G,PG,59
+131636,1127841,Daniel96,Dunkin Dullies,20,4,Julius Randle,1169,Dunkin Dullies,PF/C,PF/C,43
+131636,1127841,Daniel96,Dunkin Dullies,20,4,Marcus Morris,767,Dunkin Dullies,F,SG/SF,47.5
+131636,1127841,Daniel96,Dunkin Dullies,20,4,Montrezl Harrell,1275,Dunkin Dullies,PF/C,ANY,40
+131636,1127841,Daniel96,Dunkin Dullies,20,4,Taurean Prince,1436,Dunkin Dullies,F,PF,41
+131647,1127853,Jonaskiel,Gebimst,20,1,Andrew Wiggins,1181,Gebimst,SG/SF,ANY,43.7
+131647,1127853,Jonaskiel,Gebimst,20,1,Clint Capela,1160,Gebimst,C,C,49
+131647,1127853,Jonaskiel,Gebimst,20,1,Donovan Mitchell,1582,Gebimst,G,SG,62.7
+131647,1127853,Jonaskiel,Gebimst,20,1,Eric Gordon,176,Gebimst,SG/SF,BN,24.5
+131647,1127853,Jonaskiel,Gebimst,20,1,JJ Redick,387,Gebimst,SG/SF,SG/SF,22.8
+131647,1127853,Jonaskiel,Gebimst,20,1,Jarrett Culver,1890,Gebimst,SG/SF,SF,6.2
+131647,1127853,Jonaskiel,Gebimst,20,1,Joe Harris,1180,Gebimst,SG/SF,BN,37
+131647,1127853,Jonaskiel,Gebimst,20,1,Jordan Clarkson,1168,Gebimst,G,ANY,25.2
+131647,1127853,Jonaskiel,Gebimst,20,1,LaMarcus Aldridge,5,Gebimst,PF/C,PF,60.2
+131647,1127853,Jonaskiel,Gebimst,20,1,Larry Nance,1266,Gebimst,F/C,BN,32.8
+131647,1127853,Jonaskiel,Gebimst,20,1,LeBron James,240,Gebimst,PG/F,PG,72.8
+131647,1127853,Jonaskiel,Gebimst,20,1,Lou Williams,485,Gebimst,G,G,51.3
+131647,1127853,Jonaskiel,Gebimst,20,1,Serge Ibaka,229,Gebimst,PF/C,PF/C,39.2
+131647,1127853,Jonaskiel,Gebimst,20,2,Andrew Wiggins,1181,Gebimst,SG/SF,ANY,53.2
+131647,1127853,Jonaskiel,Gebimst,20,2,Clint Capela,1160,Gebimst,C,C,39.6
+131647,1127853,Jonaskiel,Gebimst,20,2,Donovan Mitchell,1582,Gebimst,G,SG,60.8
+131647,1127853,Jonaskiel,Gebimst,20,2,Eric Gordon,176,Gebimst,SG/SF,BN,18.9
+131647,1127853,Jonaskiel,Gebimst,20,2,JJ Redick,387,Gebimst,SG/SF,SG/SF,27.3
+131647,1127853,Jonaskiel,Gebimst,20,2,Jarrett Culver,1890,Gebimst,SG/SF,BN,27
+131647,1127853,Jonaskiel,Gebimst,20,2,Joe Harris,1180,Gebimst,SG/SF,SF,42.3
+131647,1127853,Jonaskiel,Gebimst,20,2,Jordan Clarkson,1168,Gebimst,G,ANY,42
+131647,1127853,Jonaskiel,Gebimst,20,2,LaMarcus Aldridge,5,Gebimst,PF/C,PF,37
+131647,1127853,Jonaskiel,Gebimst,20,2,Larry Nance,1266,Gebimst,F/C,BN,29.6
+131647,1127853,Jonaskiel,Gebimst,20,2,LeBron James,240,Gebimst,PG/F,PG,93.3
+131647,1127853,Jonaskiel,Gebimst,20,2,Lou Williams,485,Gebimst,G,G,38.8
+131647,1127853,Jonaskiel,Gebimst,20,2,Serge Ibaka,229,Gebimst,PF/C,PF/C,34.5
+131647,1127853,Jonaskiel,Gebimst,20,3,Andrew Wiggins,1181,Gebimst,SG/SF,ANY,70
+131647,1127853,Jonaskiel,Gebimst,20,3,Clint Capela,1160,Gebimst,C,C,69.5
+131647,1127853,Jonaskiel,Gebimst,20,3,Donovan Mitchell,1582,Gebimst,G,SG,49.8
+131647,1127853,Jonaskiel,Gebimst,20,3,Eric Gordon,176,Gebimst,SG/SF,BN,26.5
+131647,1127853,Jonaskiel,Gebimst,20,3,JJ Redick,387,Gebimst,SG/SF,BN,32
+131647,1127853,Jonaskiel,Gebimst,20,3,Jarrett Culver,1890,Gebimst,SG/SF,BN,28.5
+131647,1127853,Jonaskiel,Gebimst,20,3,Joe Harris,1180,Gebimst,SG/SF,SF,34.2
+131647,1127853,Jonaskiel,Gebimst,20,3,Jordan Clarkson,1168,Gebimst,G,ANY,31.5
+131647,1127853,Jonaskiel,Gebimst,20,3,LaMarcus Aldridge,5,Gebimst,PF/C,PF,48.3
+131647,1127853,Jonaskiel,Gebimst,20,3,Larry Nance,1266,Gebimst,F/C,SG/SF,34.3
+131647,1127853,Jonaskiel,Gebimst,20,3,LeBron James,240,Gebimst,PG/F,PG,83.7
+131647,1127853,Jonaskiel,Gebimst,20,3,Lou Williams,485,Gebimst,G,G,74.5
+131647,1127853,Jonaskiel,Gebimst,20,3,Serge Ibaka,229,Gebimst,PF/C,PF/C,36.2
+131647,1127853,Jonaskiel,Gebimst,20,4,Andrew Wiggins,1181,Gebimst,SG/SF,ANY,84.2
+131647,1127853,Jonaskiel,Gebimst,20,4,Clint Capela,1160,Gebimst,C,C,62
+131647,1127853,Jonaskiel,Gebimst,20,4,Donovan Mitchell,1582,Gebimst,G,SG,63
+131647,1127853,Jonaskiel,Gebimst,20,4,Eric Gordon,176,Gebimst,SG/SF,BN,42.5
+131647,1127853,Jonaskiel,Gebimst,20,4,Glenn Robinson,1149,Gebimst,SG/SF,SG/SF,31.5
+131647,1127853,Jonaskiel,Gebimst,20,4,JJ Redick,387,Gebimst,SG/SF,BN,57
+131647,1127853,Jonaskiel,Gebimst,20,4,Joe Harris,1180,Gebimst,SG/SF,SF,24.5
+131647,1127853,Jonaskiel,Gebimst,20,4,Jordan Clarkson,1168,Gebimst,G,ANY,40.5
+131647,1127853,Jonaskiel,Gebimst,20,4,LaMarcus Aldridge,5,Gebimst,PF/C,PF,47.5
+131647,1127853,Jonaskiel,Gebimst,20,4,Larry Nance,1266,Gebimst,F/C,BN,31.5
+131647,1127853,Jonaskiel,Gebimst,20,4,LeBron James,240,Gebimst,PG/F,PG,69.8
+131647,1127853,Jonaskiel,Gebimst,20,4,Lou Williams,485,Gebimst,G,G,48
+131647,1127853,Jonaskiel,Gebimst,20,4,Serge Ibaka,229,Gebimst,PF/C,PF/C,0
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Aaron Gordon,1147,BVB_Baller,F,SG/SF,33.2
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Al Horford,217,BVB_Baller,PF/C,ANY,50.2
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Anthony Davis,890,BVB_Baller,PF/C,PF,70.7
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Ben Simmons,1423,BVB_Baller,PG/PF,G,61.5
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Danilo Gallinari,159,BVB_Baller,F,SF,46.7
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Gordon Hayward,637,BVB_Baller,F,PF/C,38.8
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Marcus Smart,1178,BVB_Baller,G/SF,ANY,34.7
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Mitchell Robinson,1684,BVB_Baller,C,C,40.8
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Paul Millsap,324,BVB_Baller,PF/C,BN,35.8
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Rudy Gay,165,BVB_Baller,F,BN,36.8
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Russell Westbrook,476,BVB_Baller,PG,PG,93.5
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Terrence Ross,938,BVB_Baller,SG/SF,BN,23
+131652,1022573,Bombay_Sa4,BVB_Baller,20,1,Tyler Herro,1872,BVB_Baller,SG,SG,30.7
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Aaron Gordon,1147,BVB_Baller,F,SG/SF,41.2
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Al Horford,217,BVB_Baller,PF/C,ANY,56.5
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Anthony Davis,890,BVB_Baller,PF/C,PF,83.7
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Ben Simmons,1423,BVB_Baller,PG/PF,G,51.7
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Danilo Gallinari,159,BVB_Baller,F,SF,41
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Gordon Hayward,637,BVB_Baller,F,PF/C,63.5
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Marcus Smart,1178,BVB_Baller,G/SF,ANY,45.2
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Mitchell Robinson,1684,BVB_Baller,C,C,33.6
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Paul Millsap,324,BVB_Baller,PF/C,BN,30.9
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Rudy Gay,165,BVB_Baller,F,BN,39.6
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Russell Westbrook,476,BVB_Baller,PG,PG,65.8
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Terrence Ross,938,BVB_Baller,SG/SF,BN,22.9
+131652,1022573,Bombay_Sa4,BVB_Baller,20,2,Tyler Herro,1872,BVB_Baller,SG,SG,52.2
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Aaron Gordon,1147,BVB_Baller,F,SG/SF,39.2
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Al Horford,217,BVB_Baller,PF/C,ANY,50.9
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Anthony Davis,890,BVB_Baller,PF/C,PF,68.2
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Ben Simmons,1423,BVB_Baller,PG/PF,G,26.5
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Danilo Gallinari,159,BVB_Baller,F,SF,51.2
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Gordon Hayward,637,BVB_Baller,F,PF/C,62
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Marcus Smart,1178,BVB_Baller,G/SF,ANY,36.7
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Mitchell Robinson,1684,BVB_Baller,C,C,19
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Paul Millsap,324,BVB_Baller,PF/C,BN,43.7
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Rudy Gay,165,BVB_Baller,F,BN,20.7
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Russell Westbrook,476,BVB_Baller,PG,PG,48
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Terrence Ross,938,BVB_Baller,SG/SF,BN,23.5
+131652,1022573,Bombay_Sa4,BVB_Baller,20,3,Tyler Herro,1872,BVB_Baller,SG,SG,21.3
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Aaron Gordon,1147,BVB_Baller,F,SG/SF,73.5
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Al Horford,217,BVB_Baller,PF/C,ANY,33
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Anthony Davis,890,BVB_Baller,PF/C,PF,78.5
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Ben Simmons,1423,BVB_Baller,PG/PF,G,50
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Danilo Gallinari,159,BVB_Baller,F,SF,29.5
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Gordon Hayward,637,BVB_Baller,F,PF/C,0
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Marcus Smart,1178,BVB_Baller,G/SF,ANY,54
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Mitchell Robinson,1684,BVB_Baller,C,C,0
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Paul Millsap,324,BVB_Baller,PF/C,BN,52
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Rudy Gay,165,BVB_Baller,F,BN,45.2
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Russell Westbrook,476,BVB_Baller,PG,PG,45
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Terrence Ross,938,BVB_Baller,SG/SF,BN,35
+131652,1022573,Bombay_Sa4,BVB_Baller,20,4,Tyler Herro,1872,BVB_Baller,SG,SG,0
+131684,1127890,AIRderivero,Hardwood Classics,20,1,Bradley Beal,926,Hardwood Classics,SG,SG,58.7
+131684,1127890,AIRderivero,Hardwood Classics,20,1,Brook Lopez,283,Hardwood Classics,C,C,37.8
+131684,1127890,AIRderivero,Hardwood Classics,20,1,D'Angelo Russell,1272,Hardwood Classics,G,PG,31
+131684,1127890,AIRderivero,Hardwood Classics,20,1,Derrick Rose,396,Hardwood Classics,G,ANY,53.2
+131684,1127890,AIRderivero,Hardwood Classics,20,1,Draymond Green,903,Hardwood Classics,PF/C,PF,33.5
+131684,1127890,AIRderivero,Hardwood Classics,20,1,Eric Bledsoe,619,Hardwood Classics,PG,G,24.8
+131684,1127890,AIRderivero,Hardwood Classics,20,1,JaVale McGee,310,Hardwood Classics,C,PF/C,15
+131684,1127890,AIRderivero,Hardwood Classics,20,1,Paul George,635,Hardwood Classics,F,BN,0
+131684,1127890,AIRderivero,Hardwood Classics,20,1,Rajon Rondo,395,Hardwood Classics,PG,ANY,0
+131684,1127890,AIRderivero,Hardwood Classics,20,1,Spencer Dinwiddie,1182,Hardwood Classics,G,SG/SF,40
+131684,1127890,AIRderivero,Hardwood Classics,20,1,T.J. Warren,1187,Hardwood Classics,F,BN,16.5
+131684,1127890,AIRderivero,Hardwood Classics,20,1,Thaddeus Young,500,Hardwood Classics,F/C,SF,24.8
+131684,1127890,AIRderivero,Hardwood Classics,20,1,Zion Williamson,1886,Hardwood Classics,PF/C,BN,0
+131684,1127890,AIRderivero,Hardwood Classics,20,2,Bradley Beal,926,Hardwood Classics,SG,SG,81.8
+131684,1127890,AIRderivero,Hardwood Classics,20,2,Brook Lopez,283,Hardwood Classics,C,C,29.8
+131684,1127890,AIRderivero,Hardwood Classics,20,2,D'Angelo Russell,1272,Hardwood Classics,G,PG,58.2
+131684,1127890,AIRderivero,Hardwood Classics,20,2,Derrick Rose,396,Hardwood Classics,G,ANY,40.8
+131684,1127890,AIRderivero,Hardwood Classics,20,2,Devonte' Graham,1698,Hardwood Classics,G,BN,38.8
+131684,1127890,AIRderivero,Hardwood Classics,20,2,Draymond Green,903,Hardwood Classics,PF/C,PF,49
+131684,1127890,AIRderivero,Hardwood Classics,20,2,Eric Bledsoe,619,Hardwood Classics,PG,G,42.8
+131684,1127890,AIRderivero,Hardwood Classics,20,2,JaVale McGee,310,Hardwood Classics,C,PF/C,18.7
+131684,1127890,AIRderivero,Hardwood Classics,20,2,Paul George,635,Hardwood Classics,F,BN,0
+131684,1127890,AIRderivero,Hardwood Classics,20,2,Rajon Rondo,395,Hardwood Classics,PG,ANY,0
+131684,1127890,AIRderivero,Hardwood Classics,20,2,Spencer Dinwiddie,1182,Hardwood Classics,G,SG/SF,31.7
+131684,1127890,AIRderivero,Hardwood Classics,20,2,Thaddeus Young,500,Hardwood Classics,F/C,SF,37
+131684,1127890,AIRderivero,Hardwood Classics,20,2,Zion Williamson,1886,Hardwood Classics,PF/C,BN,0
+131684,1127890,AIRderivero,Hardwood Classics,20,3,Bradley Beal,926,Hardwood Classics,SG,SG,54.7
+131684,1127890,AIRderivero,Hardwood Classics,20,3,Brook Lopez,283,Hardwood Classics,C,C,39.8
+131684,1127890,AIRderivero,Hardwood Classics,20,3,D'Angelo Russell,1272,Hardwood Classics,G,G,101.8
+131684,1127890,AIRderivero,Hardwood Classics,20,3,Derrick Rose,396,Hardwood Classics,G,ANY,0
+131684,1127890,AIRderivero,Hardwood Classics,20,3,Devonte' Graham,1698,Hardwood Classics,G,ANY,68.4
+131684,1127890,AIRderivero,Hardwood Classics,20,3,Draymond Green,903,Hardwood Classics,PF/C,PF,0
+131684,1127890,AIRderivero,Hardwood Classics,20,3,Dwight Howard,219,Hardwood Classics,C,PF/C,19.7
+131684,1127890,AIRderivero,Hardwood Classics,20,3,Eric Bledsoe,619,Hardwood Classics,PG,PG,60.4
+131684,1127890,AIRderivero,Hardwood Classics,20,3,Paul George,635,Hardwood Classics,F,BN,0
+131684,1127890,AIRderivero,Hardwood Classics,20,3,Rajon Rondo,395,Hardwood Classics,PG,BN,0
+131684,1127890,AIRderivero,Hardwood Classics,20,3,Spencer Dinwiddie,1182,Hardwood Classics,G,SG/SF,49.5
+131684,1127890,AIRderivero,Hardwood Classics,20,3,Thaddeus Young,500,Hardwood Classics,F/C,SF,24.7
+131684,1127890,AIRderivero,Hardwood Classics,20,3,Zion Williamson,1886,Hardwood Classics,PF/C,BN,0
+131684,1127890,AIRderivero,Hardwood Classics,20,4,Bradley Beal,926,Hardwood Classics,SG,SG,100
+131684,1127890,AIRderivero,Hardwood Classics,20,4,Brook Lopez,283,Hardwood Classics,C,C,0
+131684,1127890,AIRderivero,Hardwood Classics,20,4,D'Angelo Russell,1272,Hardwood Classics,G,G,63.2
+131684,1127890,AIRderivero,Hardwood Classics,20,4,Derrick Rose,396,Hardwood Classics,G,ANY,29.5
+131684,1127890,AIRderivero,Hardwood Classics,20,4,Devonte' Graham,1698,Hardwood Classics,G,ANY,41.5
+131684,1127890,AIRderivero,Hardwood Classics,20,4,Draymond Green,903,Hardwood Classics,PF/C,PF,26.8
+131684,1127890,AIRderivero,Hardwood Classics,20,4,Dwight Howard,219,Hardwood Classics,C,PF/C,37.8
+131684,1127890,AIRderivero,Hardwood Classics,20,4,Eric Bledsoe,619,Hardwood Classics,PG,PG,0
+131684,1127890,AIRderivero,Hardwood Classics,20,4,Paul George,635,Hardwood Classics,F,BN,0
+131684,1127890,AIRderivero,Hardwood Classics,20,4,Rajon Rondo,395,Hardwood Classics,PG,BN,32
+131684,1127890,AIRderivero,Hardwood Classics,20,4,Spencer Dinwiddie,1182,Hardwood Classics,G,SG/SF,39.5
+131684,1127890,AIRderivero,Hardwood Classics,20,4,Thaddeus Young,500,Hardwood Classics,F/C,SF,26.5
+131684,1127890,AIRderivero,Hardwood Classics,20,4,Zion Williamson,1886,Hardwood Classics,PF/C,BN,0
+131742,1127974,BShunter,Your Team Name,20,1,Alex Len,1027,Your Team Name,C,BN,19
+131742,1127974,BShunter,Your Team Name,20,1,Danny Green,182,Your Team Name,SG/SF,SG/SF,45.3
+131742,1127974,BShunter,Your Team Name,20,1,Deandre Ayton,1716,Your Team Name,C,C,67
+131742,1127974,BShunter,Your Team Name,20,1,Delon Wright,1307,Your Team Name,G,BN,39.2
+131742,1127974,BShunter,Your Team Name,20,1,Derrick White,1579,Your Team Name,G,ANY,22.2
+131742,1127974,BShunter,Your Team Name,20,1,Kawhi Leonard,768,Your Team Name,F,SF,72.2
+131742,1127974,BShunter,Your Team Name,20,1,Kemba Walker,762,Your Team Name,PG,PG,56.3
+131742,1127974,BShunter,Your Team Name,20,1,Khris Middleton,930,Your Team Name,SG/SF,SG,49.5
+131742,1127974,BShunter,Your Team Name,20,1,Malcolm Brogdon,1411,Your Team Name,G,G,79
+131742,1127974,BShunter,Your Team Name,20,1,Marc Gasol,163,Your Team Name,C,PF/C,20.3
+131742,1127974,BShunter,Your Team Name,20,1,Robert Covington,1070,Your Team Name,F,BN,37.5
+131742,1127974,BShunter,Your Team Name,20,1,Wesley Matthews,562,Your Team Name,SG/SF,ANY,39.8
+131742,1127974,BShunter,Your Team Name,20,1,Zach Collins,1571,Your Team Name,PF/C,PF,25.5
+131742,1127974,BShunter,Your Team Name,20,2,Alex Len,1027,Your Team Name,C,C,20
+131742,1127974,BShunter,Your Team Name,20,2,Danny Green,182,Your Team Name,SG/SF,SG/SF,20.5
+131742,1127974,BShunter,Your Team Name,20,2,Deandre Ayton,1716,Your Team Name,C,BN,0
+131742,1127974,BShunter,Your Team Name,20,2,Delon Wright,1307,Your Team Name,G,BN,35.2
+131742,1127974,BShunter,Your Team Name,20,2,Derrick White,1579,Your Team Name,G,ANY,39.6
+131742,1127974,BShunter,Your Team Name,20,2,Kawhi Leonard,768,Your Team Name,F,SF,83.3
+131742,1127974,BShunter,Your Team Name,20,2,Kemba Walker,762,Your Team Name,PG,PG,72.5
+131742,1127974,BShunter,Your Team Name,20,2,Khris Middleton,930,Your Team Name,SG/SF,SG,46.4
+131742,1127974,BShunter,Your Team Name,20,2,Malcolm Brogdon,1411,Your Team Name,G,G,64.9
+131742,1127974,BShunter,Your Team Name,20,2,Marc Gasol,163,Your Team Name,C,PF/C,35.3
+131742,1127974,BShunter,Your Team Name,20,2,Robert Covington,1070,Your Team Name,F,PF,38
+131742,1127974,BShunter,Your Team Name,20,2,Wesley Matthews,562,Your Team Name,SG/SF,ANY,15.1
+131742,1127974,BShunter,Your Team Name,20,2,Zach Collins,1571,Your Team Name,PF/C,BN,0
+131742,1127974,BShunter,Your Team Name,20,3,Alex Len,1027,Your Team Name,C,BN,18.1
+131742,1127974,BShunter,Your Team Name,20,3,Danny Green,182,Your Team Name,SG/SF,SG/SF,20
+131742,1127974,BShunter,Your Team Name,20,3,Deandre Ayton,1716,Your Team Name,C,BN,0
+131742,1127974,BShunter,Your Team Name,20,3,Delon Wright,1307,Your Team Name,G,ANY,15.3
+131742,1127974,BShunter,Your Team Name,20,3,Derrick White,1579,Your Team Name,G,ANY,23.3
+131742,1127974,BShunter,Your Team Name,20,3,Dwight Powell,1155,Your Team Name,C,C,31.2
+131742,1127974,BShunter,Your Team Name,20,3,Kawhi Leonard,768,Your Team Name,F,SF,70.5
+131742,1127974,BShunter,Your Team Name,20,3,Kemba Walker,762,Your Team Name,PG,PG,64
+131742,1127974,BShunter,Your Team Name,20,3,Khris Middleton,930,Your Team Name,SG/SF,SG,47.8
+131742,1127974,BShunter,Your Team Name,20,3,Malcolm Brogdon,1411,Your Team Name,G,G,51.1
+131742,1127974,BShunter,Your Team Name,20,3,Marc Gasol,163,Your Team Name,C,PF/C,22.3
+131742,1127974,BShunter,Your Team Name,20,3,Robert Covington,1070,Your Team Name,F,PF,43.9
+131742,1127974,BShunter,Your Team Name,20,3,Will Barton,933,Your Team Name,G/SF,BN,57.3
+131742,1127974,BShunter,Your Team Name,20,4,Danny Green,182,Your Team Name,SG/SF,SG/SF,25.8
+131742,1127974,BShunter,Your Team Name,20,4,Derrick White,1579,Your Team Name,G,BN,29.8
+131742,1127974,BShunter,Your Team Name,20,4,Dwight Powell,1155,Your Team Name,C,BN,37
+131742,1127974,BShunter,Your Team Name,20,4,Jae Crowder,885,Your Team Name,F,BN,24.2
+131742,1127974,BShunter,Your Team Name,20,4,Kawhi Leonard,768,Your Team Name,F,SF,65.2
+131742,1127974,BShunter,Your Team Name,20,4,Kemba Walker,762,Your Team Name,PG,PG,77.5
+131742,1127974,BShunter,Your Team Name,20,4,Khris Middleton,930,Your Team Name,SG/SF,SG,0
+131742,1127974,BShunter,Your Team Name,20,4,Marc Gasol,163,Your Team Name,C,PF/C,41.8
+131742,1127974,BShunter,Your Team Name,20,4,Mike Conley,98,Your Team Name,PG,G,49.5
+131742,1127974,BShunter,Your Team Name,20,4,Nikola Jokic,1134,Your Team Name,F/C,C,59
+131742,1127974,BShunter,Your Team Name,20,4,Robert Covington,1070,Your Team Name,F,PF,28.5
+131742,1127974,BShunter,Your Team Name,20,4,Tomas Satoransky,925,Your Team Name,G/SF,ANY,14.5
+131742,1127974,BShunter,Your Team Name,20,4,Will Barton,933,Your Team Name,G/SF,ANY,68
+137191,1238213,ManuGino,ManuGino's Team,20,1,Bobby Portis,1285,ManuGino's Team,PF/C,ANY,24
+137191,1238213,ManuGino,ManuGino's Team,20,1,Buddy Hield,1447,ManuGino's Team,SG/SF,G,37.8
+137191,1238213,ManuGino,ManuGino's Team,20,1,CJ McCollum,1031,ManuGino's Team,G,SG,46.7
+137191,1238213,ManuGino,ManuGino's Team,20,1,Cameron Reddish,1866,ManuGino's Team,G/SF,BN,14
+137191,1238213,ManuGino,ManuGino's Team,20,1,Jaylen Brown,1426,ManuGino's Team,SG/SF,SG/SF,45.8
+137191,1238213,ManuGino,ManuGino's Team,20,1,Kelly Oubre,1315,ManuGino's Team,SG/F,SF,57.5
+137191,1238213,ManuGino,ManuGino's Team,20,1,Kevin Huerter,1699,ManuGino's Team,SG/SF,BN,21
+137191,1238213,ManuGino,ManuGino's Team,20,1,Kyle Lowry,286,ManuGino's Team,PG,ANY,62.8
+137191,1238213,ManuGino,ManuGino's Team,20,1,Marvin Bagley,1719,ManuGino's Team,PF/C,PF,44.5
+137191,1238213,ManuGino,ManuGino's Team,20,1,Myles Turner,1270,ManuGino's Team,C,C,57.2
+137191,1238213,ManuGino,ManuGino's Team,20,1,Nikola Vucevic,769,ManuGino's Team,C,PF/C,55
+137191,1238213,ManuGino,ManuGino's Team,20,1,Stephen Curry,106,ManuGino's Team,G,PG,50.2
+137191,1238213,ManuGino,ManuGino's Team,20,1,Wendell Carter,1692,ManuGino's Team,PF/C,BN,34.2
+137191,1238213,ManuGino,ManuGino's Team,20,2,Bobby Portis,1285,ManuGino's Team,PF/C,ANY,44.4
+137191,1238213,ManuGino,ManuGino's Team,20,2,Buddy Hield,1447,ManuGino's Team,SG/SF,G,43.8
+137191,1238213,ManuGino,ManuGino's Team,20,2,CJ McCollum,1031,ManuGino's Team,G,SG,44.7
+137191,1238213,ManuGino,ManuGino's Team,20,2,Cameron Reddish,1866,ManuGino's Team,G/SF,BN,23.5
+137191,1238213,ManuGino,ManuGino's Team,20,2,Jaylen Brown,1426,ManuGino's Team,SG/SF,SG/SF,0
+137191,1238213,ManuGino,ManuGino's Team,20,2,Kelly Oubre,1315,ManuGino's Team,SG/F,SF,38.3
+137191,1238213,ManuGino,ManuGino's Team,20,2,Kevin Huerter,1699,ManuGino's Team,SG/SF,BN,22.3
+137191,1238213,ManuGino,ManuGino's Team,20,2,Kyle Lowry,286,ManuGino's Team,PG,ANY,67.7
+137191,1238213,ManuGino,ManuGino's Team,20,2,Marvin Bagley,1719,ManuGino's Team,PF/C,BN,0
+137191,1238213,ManuGino,ManuGino's Team,20,2,Myles Turner,1270,ManuGino's Team,C,C,29.8
+137191,1238213,ManuGino,ManuGino's Team,20,2,Nikola Vucevic,769,ManuGino's Team,C,PF/C,50.1
+137191,1238213,ManuGino,ManuGino's Team,20,2,Stephen Curry,106,ManuGino's Team,G,PG,62.5
+137191,1238213,ManuGino,ManuGino's Team,20,2,Wendell Carter,1692,ManuGino's Team,PF/C,PF,53.4
+137191,1238213,ManuGino,ManuGino's Team,20,3,Bobby Portis,1285,ManuGino's Team,PF/C,C,33.5
+137191,1238213,ManuGino,ManuGino's Team,20,3,Buddy Hield,1447,ManuGino's Team,SG/SF,G,54.8
+137191,1238213,ManuGino,ManuGino's Team,20,3,CJ McCollum,1031,ManuGino's Team,G,SG,42.8
+137191,1238213,ManuGino,ManuGino's Team,20,3,Cameron Reddish,1866,ManuGino's Team,G/SF,ANY,17
+137191,1238213,ManuGino,ManuGino's Team,20,3,Jaylen Brown,1426,ManuGino's Team,SG/SF,SG/SF,48
+137191,1238213,ManuGino,ManuGino's Team,20,3,Kelly Oubre,1315,ManuGino's Team,SG/F,SF,36.8
+137191,1238213,ManuGino,ManuGino's Team,20,3,Kyle Lowry,286,ManuGino's Team,PG,PG,44.2
+137191,1238213,ManuGino,ManuGino's Team,20,3,Marvin Bagley,1719,ManuGino's Team,PF/C,BN,0
+137191,1238213,ManuGino,ManuGino's Team,20,3,Myles Turner,1270,ManuGino's Team,C,BN,0
+137191,1238213,ManuGino,ManuGino's Team,20,3,Nikola Vucevic,769,ManuGino's Team,C,PF/C,69.1
+137191,1238213,ManuGino,ManuGino's Team,20,3,Stephen Curry,106,ManuGino's Team,G,BN,0
+137191,1238213,ManuGino,ManuGino's Team,20,3,T.J. Warren,1187,ManuGino's Team,F,ANY,50.2
+137191,1238213,ManuGino,ManuGino's Team,20,3,Wendell Carter,1692,ManuGino's Team,PF/C,PF,35.8
+137191,1238213,ManuGino,ManuGino's Team,20,4,Bobby Portis,1285,ManuGino's Team,PF/C,ANY,20
+137191,1238213,ManuGino,ManuGino's Team,20,4,Buddy Hield,1447,ManuGino's Team,SG/SF,G,35.5
+137191,1238213,ManuGino,ManuGino's Team,20,4,CJ McCollum,1031,ManuGino's Team,G,PG,52.8
+137191,1238213,ManuGino,ManuGino's Team,20,4,Jaylen Brown,1426,ManuGino's Team,SG/SF,SG/SF,59.2
+137191,1238213,ManuGino,ManuGino's Team,20,4,Kelly Oubre,1315,ManuGino's Team,SG/F,SF,4
+137191,1238213,ManuGino,ManuGino's Team,20,4,Kevin Huerter,1699,ManuGino's Team,SG/SF,SG,36.5
+137191,1238213,ManuGino,ManuGino's Team,20,4,Kyle Lowry,286,ManuGino's Team,PG,BN,0
+137191,1238213,ManuGino,ManuGino's Team,20,4,Marvin Bagley,1719,ManuGino's Team,PF/C,BN,0
+137191,1238213,ManuGino,ManuGino's Team,20,4,Myles Turner,1270,ManuGino's Team,C,C,0
+137191,1238213,ManuGino,ManuGino's Team,20,4,Nikola Vucevic,769,ManuGino's Team,C,PF/C,70.5
+137191,1238213,ManuGino,ManuGino's Team,20,4,Stephen Curry,106,ManuGino's Team,G,BN,0
+137191,1238213,ManuGino,ManuGino's Team,20,4,T.J. Warren,1187,ManuGino's Team,F,ANY,58
+137191,1238213,ManuGino,ManuGino's Team,20,4,Wendell Carter,1692,ManuGino's Team,PF/C,PF,49
